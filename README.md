@@ -9,8 +9,7 @@
 > I can use this language! 📖 :
 
     Programming   
-    • JavaScript
-    • Python
+    • JavaScript(React)
 
 > I say, "I'm not a developer, it's just a hobby!"
 
